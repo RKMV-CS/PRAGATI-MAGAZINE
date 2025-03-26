@@ -1,5 +1,5 @@
 <h1 style="text-align: center">
-  # **The Impact of Social Media: A Double-Edged Sword**    
+  The Impact of Social Media: A Double-Edged Sword
 </h1>
 
 
