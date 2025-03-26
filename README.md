@@ -1,2 +1,11 @@
-# pragati-magazine
-The repository contains the documents related to the pragati wall magazine at RKMV NDP.
+<h1 style="text-align: center">
+  Pragati
+</h1>
+<p>
+  Progress forward.
+</p>
+The computer department magazine at RKMV NDP started in 2022.
+
+[social-media](social-media)
+[gaming](gaming)
+
