@@ -1,6 +1,6 @@
-<p style="text-align: center">
+<h1 style="text-align: center">
 Gaming: A Revolution in Entertainment and Its Impact
-</p>
+</h1>
 Video games have transformed from simple arcade experiences into a massive global industry that shapes culture, technology, and social interaction. What was once considered a niche hobby is now a mainstream form of entertainment, a competitive sport, and even a professional career. However, while gaming offers numerous benefits, it also presents certain challenges. To fully understand its impact, it is important to explore its history, advantages, and disadvantages.  
 
 ## **The History of Gaming**  
