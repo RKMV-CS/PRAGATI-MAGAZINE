@@ -1,5 +1,5 @@
 # **Technology and the Environment: A Complex Relationship**  
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=cs-environment&countColor=%237B1E7A)
 Technology has played a crucial role in shaping the world we live in today. From industrial revolutions to modern innovations, human progress has been closely tied to technological advancements. However, while technology has brought significant benefits, it has also contributed to environmental challenges such as pollution, deforestation, and climate change. At the same time, emerging technologies are now being used to combat these very issues, offering new solutions for a more sustainable future. Understanding the relationship between technology and the environment requires exploring its historical impact, advantages, and disadvantages.  
 
 ## **The Historical Impact of Technology on the Environment**  

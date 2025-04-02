@@ -1,6 +1,6 @@
 
 # Use and Misuse of Internet and Technology by Infants and Young Children  
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=cs-child&countColor=%237B1E7A)
 ## Introduction  
 
 In today’s digital era, technology plays a crucial role in everyday life. From smartphones and tablets to educational apps and online videos, children are exposed to the internet and technology from a very young age. While these tools offer numerous benefits, such as enhancing learning and communication, they also pose serious risks when misused. Striking a balance between appropriate use and overexposure is essential to ensure that technology positively contributes to a child’s development rather than harming it.  

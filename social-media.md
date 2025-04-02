@@ -1,7 +1,7 @@
 <h1 style="text-align: center">
   The Impact of Social Media: A Double-Edged Sword
 </h1>
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=cs-social&countColor=%237B1E7A)
 
 Social media has become an integral part of modern life, shaping the way people communicate, share information, and interact with the world. From its early days as a simple networking tool to its current role as a powerful force in global culture, social media has revolutionized communication. However, while it offers numerous advantages, it also presents significant challenges and risks. To fully understand the impact of social media, it is important to explore its history, benefits, and drawbacks.  
 
