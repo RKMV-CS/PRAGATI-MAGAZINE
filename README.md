@@ -3,11 +3,14 @@
 </h1>
 
 
-The first magazine of us was released in **2023**. We, the department of **Computer Science** are going to publish our 1st wall magazine of the academic year **2025**.
+The first magazine of us was released in **2023**. We, the department of **Computer Science** have published our 1st wall magazine of the academic year **2025**.
 
 We acknowledge our utmost gratitude to our revered **Headmaster Maharaj** for providing the atmosphere and acompaniance in our project.
 
 We also express our heartful thanks to our respected teachers **Sri Subhankar Ghosh**, **Sri Abir Kumar Shee**, **Shubhadeep Niyogi** and many others for guiding us in every steps.
+
+# Our Latest Magazine of 2025
+[![pragati-2025-image](https://github.com/user-attachments/assets/2d343d1f-7601-4a98-ba2b-e9ad6d1f9fb1)](pragati-magazine.pdf)
 
 # Some of our old magazines
 ## 2024
